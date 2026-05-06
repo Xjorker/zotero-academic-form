@@ -4,6 +4,8 @@
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Xjorker/zotero--academic--form-blue?style=flat-square&logo=github)](https://github.com/Xjorker/zotero-academic-form)
 [![License](https://img.shields.io/badge/License-AGPL--3.0-green?style=flat-square)]()
 
+[English](README.md) | [简体中文](doc/README-zhCN.md)
+
 > Upload a DOCX template → AI Agent automatically fills your academic achievements (papers, projects, patents, experience) into the form.
 
 ## Features
